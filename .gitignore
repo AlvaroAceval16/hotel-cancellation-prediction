@@ -1,0 +1,23 @@
+# Entornos Virtuales
+venv/
+env/
+.env
+
+# Datasets y Bases de Datos
+data/
+*.json
+*.sqlite3
+
+# Modelos Serializados de Machine Learning
+*.pkl
+*.h5
+*.model
+
+# Archivos de caché y temporales de Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Archivos del Sistema Operativo
+.DS_Store
+Thumbs.db
